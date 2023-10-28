@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib", "Lib\Lib.csproj", "{26261068-9696-4058-979C-A2776BF2DA24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlyphApp", "GlyphApp\GlyphApp.csproj", "{4BE681D8-AA5B-45E7-A727-4F4DC0410FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26261068-9696-4058-979C-A2776BF2DA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26261068-9696-4058-979C-A2776BF2DA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26261068-9696-4058-979C-A2776BF2DA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26261068-9696-4058-979C-A2776BF2DA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE681D8-AA5B-45E7-A727-4F4DC0410FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE681D8-AA5B-45E7-A727-4F4DC0410FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE681D8-AA5B-45E7-A727-4F4DC0410FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE681D8-AA5B-45E7-A727-4F4DC0410FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1E658AD-752D-40BA-BC65-D2C68262F449}
+	EndGlobalSection
+EndGlobal
