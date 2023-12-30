@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GlyphApp/1.0.0": {
+        "dependencies": {
+          "Lib": "1.0.0"
+        },
+        "runtime": {
+          "GlyphApp.dll": {}
+        }
+      },
+      "Lib/1.0.0": {
+        "runtime": {
+          "Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GlyphApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

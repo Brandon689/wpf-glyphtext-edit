@@ -1,0 +1,12 @@
+C:\GITHUB\WPFGlyphApp\Lib\bin\Debug\net6.0-windows\Lib.deps.json
+C:\GITHUB\WPFGlyphApp\Lib\bin\Debug\net6.0-windows\Lib.dll
+C:\GITHUB\WPFGlyphApp\Lib\bin\Debug\net6.0-windows\Lib.pdb
+C:\GITHUB\WPFGlyphApp\Lib\obj\Debug\net6.0-windows\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\WPFGlyphApp\Lib\obj\Debug\net6.0-windows\Lib.AssemblyInfoInputs.cache
+C:\GITHUB\WPFGlyphApp\Lib\obj\Debug\net6.0-windows\Lib.AssemblyInfo.cs
+C:\GITHUB\WPFGlyphApp\Lib\obj\Debug\net6.0-windows\Lib.csproj.CoreCompileInputs.cache
+C:\GITHUB\WPFGlyphApp\Lib\obj\Debug\net6.0-windows\Lib.sourcelink.json
+C:\GITHUB\WPFGlyphApp\Lib\obj\Debug\net6.0-windows\Lib.dll
+C:\GITHUB\WPFGlyphApp\Lib\obj\Debug\net6.0-windows\refint\Lib.dll
+C:\GITHUB\WPFGlyphApp\Lib\obj\Debug\net6.0-windows\Lib.pdb
+C:\GITHUB\WPFGlyphApp\Lib\obj\Debug\net6.0-windows\ref\Lib.dll
